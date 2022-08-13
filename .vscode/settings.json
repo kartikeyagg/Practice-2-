@@ -72,5 +72,7 @@
         "typeinfo": "cpp",
         "valarray": "cpp"
     },
-    "ros.distro": "melodic"
+    "ros.distro": "melodic",
+    "C_Cpp.errorSquiggles": "EnabledIfIncludesResolve",
+    "problems.showCurrentInStatus": true
 }
